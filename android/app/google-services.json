@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "101498279312",
+    "project_id": "service-backend-gg",
+    "storage_bucket": "service-backend-gg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101498279312:android:f989c6231eeada6bf6cf15",
+        "android_client_info": {
+          "package_name": "com.example.g_g"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101498279312-rk2efejagbg6fsvkf1tdrjkllge4h9pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVFLenYPdGTP4nSv0-HpXOzfwSr_xRYlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101498279312-rk2efejagbg6fsvkf1tdrjkllge4h9pc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "101498279312-3oiun1qkke4m94ifnu02obflpkqd1bup.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gutfulNewGg"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101498279312:android:c8894e338c684fb8f6cf15",
+        "android_client_info": {
+          "package_name": "com.gg.g_g"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101498279312-rk2efejagbg6fsvkf1tdrjkllge4h9pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVFLenYPdGTP4nSv0-HpXOzfwSr_xRYlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101498279312-rk2efejagbg6fsvkf1tdrjkllge4h9pc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "101498279312-3oiun1qkke4m94ifnu02obflpkqd1bup.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gutfulNewGg"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
